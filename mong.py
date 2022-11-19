@@ -8,6 +8,10 @@ d = {
     "city":"gaya",
     "roll":"thirty",
     "tick":"load"
+    "name":"rehan",
+    "city":"gaya",
+    "roll":"thirty",
+    "tick":"load"
 }
 db1= client['mongotest']
 coll = db1['test']
